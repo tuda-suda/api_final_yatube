@@ -1,7 +1,7 @@
 # Yatube API
 
 ## Description
-RESTful API for (https://github.com/tuda-suda/yatube)[yatube].
+RESTful API for [yatube](https://github.com/tuda-suda/yatube).
 
 ## Tech stack
 - Python 3
