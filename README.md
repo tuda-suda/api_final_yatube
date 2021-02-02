@@ -1,11 +1,12 @@
 # Yatube API
 
 ## Description
-RESTful API for [yatube](https://github.com/tuda-suda/yatube).
+RESTful API for [yatube](https://github.com/tuda-suda/yatube). Yatube is a social media site where you can create posts with images and comment on them. You can also subscribe to other authors and create thematic communities.
 
 ## Tech stack
 - Python 3
 - Django REST Framework
+- JWT
 
 ## Setup
 1. Clone the repo:
